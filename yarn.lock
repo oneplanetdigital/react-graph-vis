@@ -2189,9 +2189,9 @@ v8flags@^2.1.1:
   dependencies:
     user-home "^1.1.1"
 
-"vis-network@https://github.com/oneplanetliving/vis-network.git":
+"vis-network@https://github.com/oneplanetdigital/vis-network.git":
   version "0.0.0-no-version"
-  resolved "https://github.com/oneplanetliving/vis-network.git#ca697054ba8a2c0e6cd8d9c7cf6ee9eeb0b4bbbd"
+  resolved "https://github.com/oneplanetdigital/vis-network.git#e80303b6b2d713b10730efa2ad7d26529b029dc0"
 
 wide-align@^1.1.0:
   version "1.1.3"
